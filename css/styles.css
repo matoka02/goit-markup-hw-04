@@ -432,14 +432,14 @@ img {
     background-color: var(--background-color-teme-dark);
 }
 
-.footer-container {
+.footer-container{
     display: flex;
     align-items: baseline;
-    /* flex-direction: column; */
+    flex-direction: column;
 }
 
-.contact-address>.logo-link {
-    margin-bottom: 20px;
+.footer-container>.logo-link {
+    /* margin-bottom: 20px; */
 
     color: var(--primery-text-color-teme-dark);
 }
