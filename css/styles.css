@@ -435,10 +435,10 @@ img {
 .footer-container{
     display: flex;
     align-items: baseline;
-    flex-direction: column;
+    /* flex-direction: column; */
 }
 
-.footer-container>.logo-link {
+.footer-contacts-container>.logo-link {
     /* margin-bottom: 20px; */
 
     color: var(--primery-text-color-teme-dark);
