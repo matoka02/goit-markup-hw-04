@@ -435,7 +435,6 @@ img {
 .footer-container{
     display: flex;
     align-items: baseline;
-    /* flex-direction: column; */
 }
 
 .footer-contacts-container>.logo-link {
